@@ -1,4 +1,4 @@
-# Deep Cuts – Spotify Script
+# Spotify Deep Cuts
 
 A simple Python tool that connects to the Spotify Web API and finds **an artist’s deepest cuts** — their *least popular officially released tracks*.  
 Perfect for discovering hidden gems, demos, b-sides, and underrated songs.

@@ -3,36 +3,6 @@
 A simple Python tool that connects to the Spotify Web API and finds **an artist’s deepest cuts** — their *least popular officially released tracks*.  
 Perfect for discovering hidden gems, demos, b-sides, and underrated songs.
 
----
-
-## ⭐ Features
-
-```
-- Authenticate with Spotify (OAuth)
-- Search any artist
-- Fetch all albums/EPs/singles they actually appear on
-- Gather all track popularity scores
-- Merge duplicate releases into single “distinct” songs
-- Return the least-popular 10–20 tracks
-- Playlist creation support coming next
-```
-
----
-
-## 🚀 How it Works
-
-```
-1. Authenticate with Spotify.
-2. Search for the chosen artist.
-3. Collect all their albums, EPs, singles, and compilations.
-4. Gather all track IDs where the artist is actually credited.
-5. Merge duplicate versions (album/single/demo).
-6. Sort by Spotify’s popularity metric (0–100).
-7. The lowest-popularity tracks = the deep cuts.
-```
-
----
-
 ## 📦 Requirements
 
 ```

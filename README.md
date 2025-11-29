@@ -30,11 +30,12 @@ pip install spotipy
 ## ▶️ Usage
 
 ```
-python deep_cuts.py
+run python deep_cuts.py
 ```
 
 ```
-Artist name: mac demarco
+input Artist name
+input Spotify Auth URL 
 ```
 
 Example output:
@@ -49,14 +50,5 @@ Example output:
 Link to Playlist
 ```
 
----
-
-## 🎶 Next Steps
-
-```
-- Auto-generate a Spotify playlist of deep cuts
-- Web UI
-- Deployable online tool
-```
 
 
